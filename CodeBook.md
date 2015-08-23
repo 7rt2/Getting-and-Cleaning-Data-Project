@@ -3,7 +3,8 @@
 ##Please also see 'README.md' for information on analysis performed
 
 ##Detailed information about variables can be found on the 'features_info.txt' file of the original download of data
-	- Only variables for the mean value and standard deviation were kept for each of the signals in the analysis
+	- Only variables for the mean value and standard deviation of features were kept for each of the signals in the analysis
+	- The features in the data set are normalized and bounded within [-1,1]
 
 ##List of selected variables included in 'tidydata.txt'
 	- For each Activity performed by each SubjectId, the mean of variables 3-68 was calculated
